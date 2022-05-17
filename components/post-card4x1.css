@@ -1,0 +1,131 @@
+.post\ card\ 4\ x\ 1-container {
+  width: 1920px;
+  height: 403.99566650390625px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.post\ card\ 4\ x\ 1-image {
+  top: -6px;
+  left: 624px;
+  width: 269px;
+  height: 404px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: var(--dl-radius-radius-radius8);
+  border-top-right-radius: var(--dl-radius-radius-radius8);
+  border-bottom-left-radius: var(--dl-radius-radius-radius8);
+  border-bottom-right-radius: var(--dl-radius-radius-radius8);
+}
+.post\ card\ 4\ x\ 1-image1 {
+  top: -15px;
+  left: 946px;
+  width: 269px;
+  height: 404px;
+  margin: auto;
+  position: absolute;
+  align-self: center;
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: var(--dl-radius-radius-radius8);
+  border-top-right-radius: var(--dl-radius-radius-radius8);
+  border-bottom-left-radius: var(--dl-radius-radius-radius8);
+  border-bottom-right-radius: var(--dl-radius-radius-radius8);
+}
+.post\ card\ 4\ x\ 1-image2 {
+  top: -4px;
+  left: 306px;
+  width: 269px;
+  height: 404px;
+  margin: auto;
+  position: absolute;
+  align-self: stretch;
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: var(--dl-radius-radius-radius8);
+  border-top-right-radius: var(--dl-radius-radius-radius8);
+  border-bottom-left-radius: var(--dl-radius-radius-radius8);
+  border-bottom-right-radius: var(--dl-radius-radius-radius8);
+}
+.post\ card\ 4\ x\ 1-image3 {
+  top: -3px;
+  right: 48px;
+  width: 269px;
+  height: 404px;
+  margin: auto;
+  position: absolute;
+  align-self: stretch;
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: var(--dl-radius-radius-radius8);
+  border-top-right-radius: var(--dl-radius-radius-radius8);
+  border-bottom-left-radius: var(--dl-radius-radius-radius8);
+  border-bottom-right-radius: var(--dl-radius-radius-radius8);
+}
+.post\ card\ 4\ x\ 1-image4 {
+  top: -4px;
+  left: 1259px;
+  width: 269px;
+  height: 404px;
+  margin: auto;
+  position: absolute;
+  align-self: stretch;
+  object-fit: cover;
+  margin-right: auto;
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: var(--dl-radius-radius-radius8);
+  border-top-right-radius: var(--dl-radius-radius-radius8);
+  border-bottom-left-radius: var(--dl-radius-radius-radius8);
+  border-bottom-right-radius: var(--dl-radius-radius-radius8);
+}
+.post\ card\ 4\ x\ 1-image5 {
+  top: 0px;
+  left: 0px;
+  width: 269px;
+  height: 404px;
+  position: absolute;
+  align-self: flex-start;
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-radius4);
+  border-top-left-radius: var(--dl-radius-radius-radius8);
+  border-top-right-radius: var(--dl-radius-radius-radius8);
+  border-bottom-left-radius: var(--dl-radius-radius-radius8);
+  border-bottom-right-radius: var(--dl-radius-radius-radius8);
+}
+.post\ card\ 4\ x\ 1-root-class-name {
+  top: 481px;
+  left: 0px;
+  position: absolute;
+}
+.post\ card\ 4\ x\ 1-root-class-name1 {
+  top: 0px;
+  left: 0px;
+  position: absolute;
+  align-self: stretch;
+}
+.post\ card\ 4\ x\ 1-root-class-name2 {
+  top: 1055px;
+  left: 0px;
+  position: absolute;
+}
+
+.post\ card\ 4\ x\ 1-root-class-name4 {
+  top: 1589px;
+  left: 0px;
+  position: absolute;
+}
+.post\ card\ 4\ x\ 1-root-class-name5 {
+  left: 0px;
+  bottom: 574px;
+  position: absolute;
+}
+.post\ card\ 4\ x\ 1-root-class-name6 {
+  left: 0px;
+  bottom: 78px;
+  position: absolute;
+}
